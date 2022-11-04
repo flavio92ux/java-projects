@@ -6,6 +6,10 @@ public class App {
 
         Aluno a1 = new Aluno("Vanessa da Silva",1992, "123456");
 
-        System.out.println(a1.getNome());
+        System.out.println(a1.getRa());
+
+        Professor pr1 = new Professor("Pedro da Silva", 1983, "1233456");
+
+        System.out.println(pr1.getMatricula());
     }
 }

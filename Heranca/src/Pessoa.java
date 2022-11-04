@@ -1,3 +1,11 @@
+/* 
+ * - Classe base
+ * - Classe mãe
+ * - Classe pai
+ * - Super classe
+ * - Classe genérica
+ */
+
 public class Pessoa {
   private String nome;
   private int ano_nascimento;
